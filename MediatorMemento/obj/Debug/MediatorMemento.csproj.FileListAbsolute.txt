@@ -1,0 +1,8 @@
+C:\Users\Shebnem\source\repos\MediatorMemento\MediatorMemento\obj\Debug\MediatorMemento.csproj.AssemblyReference.cache
+C:\Users\Shebnem\source\repos\MediatorMemento\MediatorMemento\obj\Debug\MediatorMemento.csproj.SuggestedBindingRedirects.cache
+C:\Users\Shebnem\source\repos\MediatorMemento\MediatorMemento\obj\Debug\MediatorMemento.csproj.CoreCompileInputs.cache
+C:\Users\Shebnem\source\repos\MediatorMemento\MediatorMemento\bin\Debug\MediatorMemento.exe.config
+C:\Users\Shebnem\source\repos\MediatorMemento\MediatorMemento\bin\Debug\MediatorMemento.exe
+C:\Users\Shebnem\source\repos\MediatorMemento\MediatorMemento\bin\Debug\MediatorMemento.pdb
+C:\Users\Shebnem\source\repos\MediatorMemento\MediatorMemento\obj\Debug\MediatorMemento.exe
+C:\Users\Shebnem\source\repos\MediatorMemento\MediatorMemento\obj\Debug\MediatorMemento.pdb
